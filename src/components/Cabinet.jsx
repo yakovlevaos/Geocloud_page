@@ -3,7 +3,7 @@ import './Cabinet.css';
 
 function Cabinet() {
   return (
-    <a href="#" className="block2">
+    <a href="/auth" className="block2">
       Кабинет
     </a>
   );

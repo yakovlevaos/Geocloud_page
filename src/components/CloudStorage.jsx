@@ -3,7 +3,7 @@ import './CloudStorage.css';
 
 function CloudStorage() {
   return (
-    <a href="#" className="block3">
+    <a href="/nextcloud" className="block3">
       Облачное хранилище
     </a>
   );

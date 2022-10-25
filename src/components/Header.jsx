@@ -6,7 +6,6 @@ function Header() {
     <header className="header">
       <img src={logo} alt="logo" />
       <div className="heading">Облачные сервисы</div>
-      {/* <a href='#' className='documentation'>Документация</a> */}
     </header>
   );
 }

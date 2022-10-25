@@ -3,7 +3,7 @@ import './Chat.css';
 
 function Chat() {
   return (
-    <a href="#" className="block4">
+    <a href="/chat" className="block4">
       Чат
     </a>
   );
