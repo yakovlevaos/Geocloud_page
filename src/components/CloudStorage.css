@@ -1,8 +1,8 @@
 .block3 {
   grid-column: 9 / 11;
-  grid-row: 4 / 6;  
+  grid-row: 4 / 6;
   display: flex;
-  background-color: #253B59;
+  background-color: #253b59;
   width: 100%;
   height: 90%;
   border-radius: 10px;
@@ -11,12 +11,11 @@
   align-items: center;
   text-decoration: none;
   color: white;
-  
 }
 
 .block3:hover {
   transform: scale(1.2);
-  background: #57687E;
+  background: #57687e;
   z-index: 1;
-  transition: transform .5s;
+  transition: transform 0.5s;
 }

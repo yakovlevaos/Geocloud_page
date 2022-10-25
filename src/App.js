@@ -8,11 +8,9 @@ import CloudStorage from './components/CloudStorage';
 import Chat from './components/Chat';
 import AddService from './components/AddService';
 
-
-
 function App() {
   return (
-    <div className='page-wrapper'>
+    <div className="page-wrapper">
       <Header />
       <GeoViewer />
       <Cabinet />

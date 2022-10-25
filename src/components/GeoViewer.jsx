@@ -1,10 +1,12 @@
 import React from 'react';
-import './GeoViewer.css'
+import './GeoViewer.css';
 
 function GeoViewer() {
-    return (
-        <a href='#' className='block'>GeoViewer</a>
-    );
-};
+  return (
+    <a href="#" className="block">
+      GeoViewer
+    </a>
+  );
+}
 
 export default GeoViewer;
