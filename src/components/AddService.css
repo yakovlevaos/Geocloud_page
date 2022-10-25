@@ -1,6 +1,6 @@
 .blockadd {
   grid-column: 8 / 10;
-  grid-row: 7 / 9;
+  grid-row: 8 / 9;
   display: flex;
   background-color: #253b59;
   width: 100%;
@@ -17,6 +17,7 @@
   transform: scale(1.2);
   background: #57687e;
   transition: transform 0.5s;
+  cursor: pointer;
 }
 
 .plus {

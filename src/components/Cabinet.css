@@ -1,6 +1,6 @@
 .block2 {
   grid-column: 6 / 8;
-  grid-row: 4 / 6;
+  grid-row: 5 / 6;
   display: flex;
   background-color: #253b59;
   width: 100%;

@@ -24,7 +24,9 @@ function AddService() {
         isOpen={isOpen}
         title="Инструкция по добавлению модуля к облачному сервису"
         onRequestClose={handleOpen}
-      ></SlidingPane>
+      >
+        <h2>Инструкция по добавлению облачного сервиса</h2>
+      </SlidingPane>
     </div>
   );
 }
