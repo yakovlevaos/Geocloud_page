@@ -3,7 +3,7 @@ import './GeoViewer.css';
 
 function GeoViewer() {
   return (
-    <a href="/geoviwer" className="block">
+    <a href="/geoviewer" className="block">
       GeoViewer
     </a>
   );
